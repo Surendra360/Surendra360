@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full MERN stack web development**
 
-- 👨‍💻 All of my projects are available at [.....]https://portfolio-from-surendra.netlify.app
+- 👨‍💻 All of my projects are available at :- https://portfolio-from-surendra.netlify.app
 
 - 💬 Ask me about **HTML,CSS,JS,Tailwind,React**
 
